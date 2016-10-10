@@ -1,0 +1,212 @@
+{
+  "categoryName1": "STARTERS",
+  "category1": [
+    {
+      "starter": "Baby Corn Manchurian"
+    },
+    {
+      "starter": "an"
+    },
+    {
+      "starter": "Gobi Manchurian"
+    },
+    {
+      "starter": "Paneer 65"
+    },
+    {
+      "starter": "Chilli Paneer"
+    },
+    {
+      "starter": "Crispy Corn Chilli Pepper"
+    },
+    {
+      "starter": "Baby Corn Hot-N-Pepper"
+    },
+    {
+      "starter": "Veg Spring Roll"
+
+
+    },
+    {
+      "starter": "Chicken 65"
+    },
+    {
+      "starter": "Chilli Chicken"
+    },
+    {
+      "starter": "Chicken Drum Sticks"
+    },
+    {
+      "starter": "Chicken Manchurian"
+    },
+    {
+      "starter": "Pepper Chicken"
+    },
+    {
+      "starter": "Egg Spring Roll"
+    },
+    {
+      "starter": "Chicken Spring Roll"
+    },
+    {
+      "starter": "Golden Fried Prawns"
+    },
+    {
+      "starter": "Chilli Prawns"
+    },
+    {
+      "starter": "Loose Prawns"
+    },
+    {
+      "starter": "Apollo Fish"
+    },
+    {
+      "starter": "Schezwan Fish"
+
+    }
+
+  ],
+  "categoryName2": "MAINS",
+  "category2": [
+    {
+
+      "mains": "Veg Fried Rice"
+    },
+    {
+
+      "mains": "Schezwan Veg Fried Rice"
+    },
+    {
+
+      "mains": "Egg Fried Rice"
+    },
+    {
+
+      "mains": "304"
+    },
+    {
+
+      "mains": "304"
+    },
+    {
+
+      "mains": "Chicken Fried Rice"
+    },
+    {
+
+      "mains": "Schezwan Chicken Fried Rice"
+
+    },
+    {
+
+      "mains": "Dal Fry"
+
+    },
+    {
+
+      "mains": "Dal Makhani"
+    },
+    {
+
+      "mains": "Nizami Handi"
+    },
+    {
+
+      "mains": "Kadai Veg"
+    },
+    {
+
+      "mains": "Kadai Paneer"
+    },
+    {
+
+      "mains": "Malai Kofta"
+    },
+    {
+
+      "mains": "Paneer Butter Masala"
+    },
+    {
+
+      "mains": "Palak Paneer"
+    },
+    {
+
+      "mains": "Veg Do Pyaza"
+    },
+    {
+
+      "mains": "Methi Chaman"
+    },
+    {
+
+      "mains": "Chicken Curry"
+    },
+    {
+
+      "mains": "Tandoori Chicken Masala"
+    },
+    {
+
+      "mains": "Butter Chicken Boneless"
+    },
+    {
+      "mains": "Paradise Special Chicken"
+    },
+    {
+      "mains": "Chicken Tikka Masala"
+    },
+    {
+      "mains": "Kadai Chicken"
+    },
+    {
+      "mains": "Murgh Musallam"
+    },
+    {
+      "mains": "Chicken Nawabi"
+    }
+  ],
+  "categoryName3": "BIRYANI",
+  "category3": [
+    {
+
+      "biryani": "Chicken Biryani"
+
+    },
+    {
+
+      "biryani": "Mutton Biryani"
+
+    },
+    {
+
+      "biryani": "Special Biryani"
+
+    },
+    {
+
+      "biryani": "Special Supreme Chicken Biryani"
+
+    },
+    {
+
+      "biryani": "Special Supreme Mutton Biryani"
+
+    },
+    {
+
+      "biryani": "Egg Biryani"
+
+    },
+    {
+
+      "biryani": "Fish biryani"
+
+    },
+    {
+
+      "biryani": "Veg Biryani"
+
+    }
+    ]
+}

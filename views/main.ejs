@@ -1,0 +1,34 @@
+<html>
+<head>
+    <title>Ontable</title>
+    <link href="/stylesheets/style.css" rel="stylesheet" type="text/css">
+    <script src='/javascripts/techenthusiastic.js'></script>
+    <script src='/javascripts/techenthusiastic.js'></script>
+
+    <link rel='stylesheet' href='/stylesheets/stylesheet.css' type="text/css" />
+    <link rel='stylesheet' href='/stylesheets/techenthusiasiticss2.css' type="text/css"/>
+
+</head>
+<body>
+<h3><%= videodata.categoryName2 %></h3>
+
+
+
+<% videodata.category2.forEach(function(item){ %>
+<div class="col-lg-6">
+    <div class="input-group">
+        <span class="input-group-addon">
+        <input type="checkbox" aria-label="...">
+      </span>
+        <p class="form-control" aria-label="..."><%= item.mains %></p>
+    </div>
+</div>
+<% }); %>
+
+
+
+
+
+</body>
+</html>
+</html>
